@@ -1,0 +1,39 @@
+#nav-list {
+  background-color: #b2a6a3;
+}
+
+.row div {
+  background-color: #cac366;
+}
+
+#nav-list li a {
+  color: #2754e4;
+}
+
+.row #section-text {
+  height: 1000px;
+}
+
+.nav li {
+  border: 1px solid black;
+}
+
+.navbar-brand h1 {
+  font-size: 30px;
+  margin: 0px;
+}
+
+#header-nav {
+  padding-bottom: 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+@media (max-width: 767px) and (min-width: 350px) {
+  #big-section {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+}
